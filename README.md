@@ -460,64 +460,6 @@ Drove analytics and process engineering across Accenture's global service delive
 
 <div align="center">
 
-## 🏅 GitHub Trophies
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deekshitha-54&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 📉 Contribution Activity
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshitha-54&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area_color=6D28D9&area=true&hide_border=true&custom_title=Deekshitha%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deekshitha-54/deekshitha-54/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deekshitha-54/deekshitha-54/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/deekshitha-54/deekshitha-54/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## 🎯 Current Focus
 
 </div>
