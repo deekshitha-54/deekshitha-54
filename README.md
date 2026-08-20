@@ -45,11 +45,11 @@
 
 <br/>
 
-I am a **Data Analyst** and **SAP Functional Consultant** with a rare dual profile combining enterprise systems implementation and advanced analytics. With hands-on experience at **Accenture** and graduate studies in **SAP & Business Data Analytics** at **Central Michigan University**, I bring end-to-end capability across both the analytical and enterprise sides of modern business operations.
+I am a **SAP Functional Consultant & Analyst** with **5+ years of progressive experience** configuring SAP S/4HANA systems from the ground up — spanning **FI, CO, MM, SD, PP, and ME modules** — combined with graduate study in **SAP & Business Data Analytics** at **Central Michigan University**.
 
-At Accenture, I engineered an **8-KPI reporting suite** analyzing **10,000+ records weekly**, cut stakeholder reporting turnaround by **25%**, and identified **3 critical process bottlenecks** that accelerated delivery by **18%**. On the SAP side, I have configured **10+ end-to-end business scenarios** across **FICO, MM, and SD** — including full Procure-to-Pay and Order-to-Cash cycles with real-world master data, pricing conditions, and document flows.
+Across roles at **Cognitus** and **Accenture**, I've configured and maintained SAP MM/SD master data, owned UAT cycles for procure-to-pay and order-to-cash scenarios, and partnered with ABAP developers to translate functional requirements into technical specifications. This work drove an **85% improvement in cross-module data consistency** at Cognitus and a **76% reduction in recurring data errors** at Accenture.
 
-I bring a **process-engineering mindset** to every engagement: I don't just build dashboards — I identify the decisions they need to drive. I don't just configure SAP modules — I trace how configuration translates to business outcomes. Proficient in **ABAP development**, **Celonis Process Mining** (Technical Star & Business Star certified), **SQL**, **Python**, **Tableau**, and **Power BI**, with deep expertise in fit-gap analysis, UAT support, business process reengineering, and stakeholder reporting.
+I bring a **process-engineering mindset** to every engagement — I don't just configure SAP modules, I trace how configuration translates to business outcomes. Skilled in requirements gathering, fit-gap analysis, UAT leadership, master data management, and cross-functional stakeholder coordination, with working knowledge of **ABAP development**, **Celonis Process Mining** (Technical Star & Business Star certified), **SQL**, **Python**, **Tableau**, and **RPA via UiPath**.
 
 <br/>
 
@@ -142,7 +142,7 @@ I bring a **process-engineering mindset** to every engagement: I don't just buil
 | **SAP PP / ME** | ★★★★ | Production Planning & Manufacturing Execution module awareness |
 | **ABAP Development** | ★★★★ | Module Pool Programming, ALV Reports, Global Classes, interactive reports, RICEFW |
 | **Celonis Process Mining** | ★★★★★ | Technical Star & Business Star certified; end-to-end workflow mapping & bottleneck analysis |
-| **Fit-Gap Analysis & UAT** | ★★★★★ | Requirements gathering, functional specifications, SIT/UAT support, SAP Activate methodology |
+| **Fit-Gap Analysis & UAT** | ★★★★★ | Requirements gathering, functional specifications, UAT leadership, SAP Activate methodology |
 | **SQL & Data Querying** | ★★★★★ | MySQL, MS Access; complex joins, aggregations, subqueries, ETL pipeline design |
 | **Python Analytics** | ★★★★★ | Pandas, NumPy, Matplotlib; data wrangling, validation, automated reporting pipelines |
 | **Tableau** | ★★★★★ | LOD expressions, parameters, sets, calculated fields; 40% performance optimization |
@@ -169,22 +169,22 @@ I bring a **process-engineering mindset** to every engagement: I don't just buil
 
 <br/>
 
-> End-to-end SAP S/4HANA implementation spanning FICO, MM, and SD modules with full Procure-to-Pay and Order-to-Cash business process simulation, ABAP development, and multi-environment validation.
+> End-to-end SAP S/4HANA system built from the ground up for a simulated company, spanning system landscape setup, internal controls configuration, and business process simulation across five modules.
 
 <br/>
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | SAP S/4HANA · FICO · MM · SD · ABAP · Module Pool Programming · ALV Reports · Global Classes |
-| **Scale** | 10+ end-to-end business scenarios configured across three core modules |
-| **Performance** | 15% improvement in cross-module reporting efficiency through ABAP module pool optimization |
-| **Security** | Full UAT and SIT validation across DEV, QA, and pre-production environments |
-| **Impact** | Zero data integrity failures before production rollout; real-time asset tracking with drill-down reporting |
+| **Stack** | SAP S/4HANA · FICO · MM · SD · PP · ME · ABAP · Module Pool Programming · ALV Reports · Global Classes |
+| **Scale** | 10+ end-to-end business scenarios across FICO, MM, and SD; internal controls configured across FICO, MM, SD, PP, and ME |
+| **Performance** | 15% improvement in reporting efficiency through ABAP module pool development and streamlined cross-module integration |
+| **Process** | SDLC discipline applied across design, build, UAT, and deployment phases |
+| **Impact** | Full configuration steps, functional specifications, and test cases documented to enterprise implementation standards |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/deekshitha-54) |
 
 <br/>
 
-Configured **10+ complete end-to-end business scenarios** across FICO, MM, and SD in SAP S/4HANA, simulating full Procure-to-Pay and Order-to-Cash cycles with real-world master data, pricing conditions, and document flows. Developed an **Employee & Asset Management System** in ABAP using module pool programming, global classes, and interactive ALV reports — delivering real-time asset tracking with drill-down reporting capability. Optimized cross-module reporting efficiency by **15%** through ABAP module pool improvements, reducing manual reporting steps and improving data consistency across functional areas. Performed functional testing and validation across development, quality, and pre-production environments, applying UAT and SIT methodology to ensure **zero data integrity failures** before production rollout — mirroring real-world SAP project delivery standards.
+Built and configured a complete **SAP S/4HANA system from the ground up** for a simulated company, including system landscape setup and internal controls configuration across FICO, MM, SD, PP, and ME modules. Configured **10+ end-to-end business scenarios** across FICO, MM, and SD, integrating cross-module data flows to simulate full Procure-to-Pay and Order-to-Cash cycles with master data, pricing conditions, and document flows. Developed an **Employee & Asset Management System** in ABAP using module pool programming, global classes, and interactive ALV reports, improving reporting efficiency by **15%** through streamlined cross-module data integration. Documented all configuration steps, functional specifications, and test cases, applying SDLC discipline across design, build, UAT, and deployment phases.
 
 <br/>
 
@@ -306,29 +306,58 @@ Conducted requirements analysis and designed a regulatory-compliant payroll data
 
 <br/>
 
-### 🏢 Service Delivery Operations Analyst &nbsp;·&nbsp; Accenture
+### 🏢 Junior SAP Consultant &nbsp;·&nbsp; Cognitus
 
-**`Aug 2023 – Jul 2024`** &nbsp;·&nbsp; Hyderabad, India
+**`Apr 2025 – May 2026`** &nbsp;·&nbsp; USA
 
-Drove analytics and process engineering across Accenture's global service delivery operations — owning an 8-KPI reporting system, SAP S/4HANA data pipeline, and Celonis Process Mining initiative that delivered measurable throughput and reporting improvements at enterprise scale.
-
-- Engineered an **8-KPI recurring reporting suite** used in senior leadership performance reviews, cutting stakeholder reporting turnaround by **25%** and ensuring SLA compliance tracking across **100+ monthly service requests**
-- Extracted and analyzed **10,000+ records** from SAP S/4HANA operational systems weekly, applying **Celonis Process Mining** to map end-to-end service delivery workflows and identify **3 critical process bottlenecks** — delivering reengineering recommendations adopted by senior leadership
-- Conducted **gap analysis and business process mapping** across 4 cross-functional service workflows, identifying high-impact bottlenecks that accelerated project delivery by **18%** — saving **2+ days per delivery cycle**
-- Governed **master data quality** across SAP-managed pipelines by implementing validation protocols that maintained **100% data integrity** across **10,000+ monthly transactions** and ensured audit-ready records for executive review
-- Gathered and translated business requirements from **4 cross-functional units** into structured functional specifications, applying fit-gap analysis to surface process gaps that drove **2 successful cross-functional process redesigns**
-- Reduced recurring report turnaround from **3 days to same-day** through process standardization and Celonis-driven automation — reclaiming **5+ analyst hours weekly**, a **60%+ reduction** in reporting overhead
+- Configured and maintained SAP **MM/SD master data** (vendor master, material master, pricing conditions), supporting accurate procurement and sales transaction processing across client engagements
+- Led testing and validation of **procure-to-pay and order-to-cash** business scenarios, coordinating with functional teams to ensure system configurations aligned with documented business requirements
+- Owned **UAT cycles** for MM/SD processes — authoring test scripts, tracking defects, and partnering with stakeholders to resolve configuration gaps ahead of go-live
+- Contributed to cross-module integration between MM, SD, and FICO, streamlining end-to-end transaction flows and improving data consistency by **85%**
 
 <br/>
 
-![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-7C3AED?style=flat-square&logo=sap&logoColor=white)&nbsp;
-![Celonis](https://img.shields.io/badge/Celonis%20Process%20Mining-6D28D9?style=flat-square&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logo=mysql&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3B0764?style=flat-square&logo=python&logoColor=white)&nbsp;
-![Gap Analysis](https://img.shields.io/badge/Gap%20Analysis-7C3AED?style=flat-square&logoColor=white)&nbsp;
-![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-6D28D9?style=flat-square&logoColor=white)&nbsp;
-![Process Mining](https://img.shields.io/badge/Process%20Mining-4C1D95?style=flat-square&logoColor=white)&nbsp;
-![Agile](https://img.shields.io/badge/Agile%2FScrum-3B0764?style=flat-square&logoColor=white)
+![SAP MM](https://img.shields.io/badge/SAP%20MM-7C3AED?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![SAP SD](https://img.shields.io/badge/SAP%20SD-6D28D9?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![SAP FICO](https://img.shields.io/badge/SAP%20FICO-4C1D95?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![Master Data](https://img.shields.io/badge/Master%20Data%20Management-3B0764?style=flat-square&logoColor=white)&nbsp;
+![UAT](https://img.shields.io/badge/UAT%20Leadership-7C3AED?style=flat-square&logoColor=white)
+
+<br/>
+
+### 🏢 SAP Development Analyst &nbsp;·&nbsp; Accenture
+
+**`Jun 2022 – Jul 2024`** &nbsp;·&nbsp; Hyderabad, India
+
+- Supported configuration, enhancement, and maintenance of SAP objects across **FICO, MM, and SD** modules for enterprise client accounts, ensuring accurate processing across procure-to-pay and order-to-cash workflows
+- Partnered with **ABAP developers** to translate functional requirements into specifications for custom reports and enhancements, validating outputs against business needs
+- Investigated and resolved data and process discrepancies in SAP records, consistently closing assigned tickets within **SLA** targets
+- Maintained and validated SAP master data accuracy across multiple modules, supporting operational reporting, audit-readiness, and a measurable **76% reduction** in recurring data errors
+
+<br/>
+
+![SAP FICO](https://img.shields.io/badge/SAP%20FICO-7C3AED?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![SAP MM](https://img.shields.io/badge/SAP%20MM-6D28D9?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![SAP SD](https://img.shields.io/badge/SAP%20SD-4C1D95?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![ABAP](https://img.shields.io/badge/ABAP%20Collaboration-3B0764?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![SLA Management](https://img.shields.io/badge/SLA%20Management-7C3AED?style=flat-square&logoColor=white)
+
+<br/>
+
+### 🏢 SAP Functional Trainee &nbsp;·&nbsp; Vistex
+
+**`Jan 2022 – May 2022`** &nbsp;·&nbsp; Hyderabad, India
+
+- Assisted with **Procure-to-Pay (MM)**, **Order-to-Cash (SD)**, and **Financial/Controlling (FICO)** process mapping and configuration support under senior consultant guidance
+- Gained hands-on exposure to SAP module navigation, master data structures, and end-to-end business process documentation
+- Supported preparation of test scenarios and configuration notes for functional workstreams
+
+<br/>
+
+![SAP MM](https://img.shields.io/badge/SAP%20MM-7C3AED?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![SAP SD](https://img.shields.io/badge/SAP%20SD-6D28D9?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![SAP FICO](https://img.shields.io/badge/SAP%20FICO-4C1D95?style=flat-square&logo=sap&logoColor=white)&nbsp;
+![Process Mapping](https://img.shields.io/badge/Process%20Mapping-3B0764?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -346,15 +375,13 @@ Drove analytics and process engineering across Accenture's global service delive
 
 | Recognition | Details |
 |:---:|:---|
-| **25% Reporting Turnaround Reduction** | Engineered 8-KPI suite at Accenture; cut stakeholder reporting from 3 days to same-day |
-| **18% Delivery Throughput Improvement** | Identified 3 critical bottlenecks via Celonis Process Mining — recovered 2+ days per delivery cycle |
-| **100% Data Integrity Maintained** | Governed SAP-managed pipelines across 10,000+ monthly transactions at Accenture |
-| **60%+ Reporting Overhead Eliminated** | Automated recurring workflow from 3-day turnaround to same-day delivery |
+| **85% Cross-Module Data Consistency** | Streamlined MM–SD–FICO integration and transaction flows at Cognitus |
+| **76% Reduction in Recurring Data Errors** | Maintained and validated SAP master data accuracy across modules at Accenture |
 | **40% Dashboard Performance Optimization** | Advanced Tableau LOD expressions & parameters on Housing Market Dashboard Suite |
 | **15% Cross-Module Reporting Efficiency** | Optimized ABAP module pool programming across FICO, MM, and SD in SAP S/4HANA |
 | **30% Manual Data Entry Reduction** | Full pipeline automation via normalized MySQL + Python CRUD system (GaragePulse) |
 | **20% Error Reduction** | Validation logic design in EEOC Regulatory Reporting System eliminated calculation errors |
-| **2 Peer-Reviewed Publications** | Published IoT systems research papers during B.Tech at ACE Engineering College |
+| **5× Scale Log Analysis** | 50,000+ line VDI server log analysis in R — 5× typical entry-level project scope |
 | **Celonis Technical Star Certified** | Advanced process mining and workflow analysis proficiency — Celonis certification |
 | **Celonis Business Star Certified** | Business process analytics and KPI-driven insights delivery — Celonis certification |
 
