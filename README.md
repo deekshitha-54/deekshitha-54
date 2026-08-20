@@ -459,34 +459,6 @@ Conducted requirements analysis and designed a regulatory-compliant payroll data
 
 <div align="center">
 
-## 📈 GitHub Analytics
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deekshitha-54&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A78BFA&text_color=C4B5FD&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshitha-54&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=6D28D9" width="48%" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshitha-54&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C4B5FD&langs_count=8" width="40%" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## 🎯 Current Focus
 
 </div>
@@ -494,7 +466,7 @@ Conducted requirements analysis and designed a regulatory-compliant payroll data
 <br/>
 
 ```yaml
-current_focus:
+current focus:
 
   learning:
     - SAP S/4HANA Advanced Configuration (PP, ME, Cross-Module Integration)
@@ -514,7 +486,7 @@ current_focus:
     - Business Intelligence automation at enterprise scale
     - Data governance and master data management best practices
 
-  open_to:
+  open to:
     - SAP Functional Analyst / SAP Consultant roles
     - Business Data Analyst positions
     - Business Systems Analyst opportunities
